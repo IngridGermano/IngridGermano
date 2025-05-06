@@ -48,7 +48,7 @@
 
 ### ✨ Sobre mim
 
-- 🎓 Fisioterapeuta Sanitarista por formação e Tecnóloga em Análise e Desenvolvimento de Sistemas por paixão e vocação! 
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas 
 - 🧪 Explorando testes automatizados, análise de dados e inteligência artificial  
 - 🚀 Estudando, construindo e me reinventando todos os dias  
 
